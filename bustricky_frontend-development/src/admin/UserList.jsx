@@ -939,7 +939,7 @@ const UserList = () => {
           <div className="flex items-center space-x-3">
             <button
               onClick={() => navigate("/user/signup")}
-              className="bg-blue-600 flex items-center px-4 py-2 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-all duration-300 font-medium shadow-sm"
+              className="bg-blue-700 flex items-center px-4 py-2 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-all duration-300 font-medium shadow-sm"
             >
               <Plus className="h-4 w-4 mr-2" />
               Add User
